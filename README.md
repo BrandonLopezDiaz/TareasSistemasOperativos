@@ -14,7 +14,8 @@ https://asciinema.org/a/gtYJL3ZwAeuhI15QKehc25y8s
 ![Gif_MaquinasVirtuales_LopezDiazBrandon (1)](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/b06637b4-8adf-4e16-8d4c-f49d84014137)
 
 #Tarea #994 Hoy 19/09/2023 subi mi tarea de 20 script
-![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/eb04addc-b30b-4f68-bcf6-e145d3b50105)
+[![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/eb04addc-b30b-4f68-bcf6-e145d3b50105)
+](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/tree/main/script20)
 
 #Tarea #993 todos los niveles de bandit
 ![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/7f4c7605-210a-4083-8ae1-8ba261c544e3)
