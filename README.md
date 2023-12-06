@@ -11,7 +11,7 @@ tareas de la materia de sistemas operativos de 27AV
 https://asciinema.org/a/gtYJL3ZwAeuhI15QKehc25y8s
 
 #Tarea #995 Gif
-![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/4f13eece-a989-4438-81f6-5c4563acbbe0)
+![Gif_MaquinasVirtuales_LopezDiazBrandon (1)](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/b06637b4-8adf-4e16-8d4c-f49d84014137)
 
 #Tarea #994 Hoy 19/09/2023 subi mi tarea de 20 script
 ![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/eb04addc-b30b-4f68-bcf6-e145d3b50105)
@@ -26,7 +26,7 @@ https://asciinema.org/a/gtYJL3ZwAeuhI15QKehc25y8s
 ![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/b9dd1469-11e0-40c8-bd4e-c7646ffbc12a)
 
 #Tarea #989 Realizar el room de Bash Scripting de TYryHackMe
-![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/f5d67cf3-1f64-4e16-a705-9db8190dccb0)
+![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/2739305e-095e-413f-9154-5cd1eb91a812)
 
 #Tarea #988 Ejercicio hechos en clases 
 ![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/e99b0240-6026-4087-bf69-2caa7c03c3a5)
