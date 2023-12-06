@@ -18,6 +18,7 @@ https://asciinema.org/a/gtYJL3ZwAeuhI15QKehc25y8s
 [script20](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/tree/main/script20)
 
 #Tarea #993 todos los niveles de bandit
+https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/blob/main/Bandit_LopezDiazBrandon.txt
 ![image](https://github.com/BrandonLopezDiaz/TareasSistemasOperativos/assets/116574142/7f4c7605-210a-4083-8ae1-8ba261c544e3)
 
 #Tarea #991 Realizar los rooms de Linux Fundamentals de tryhackme
